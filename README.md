@@ -1,3 +1,12 @@
+Hello this is my front end react restaurant pos app which is used to book the table, Take orders from the customers and proceed them to the kitchen, manages the tables, orders and customers, and also it handles the payment.
+
+The main interface of the web app looks like this:
+
+![image](https://github.com/praneethNellutla/restaurant-Front-End/assets/116669539/04bc9b35-0335-4940-a8fd-101eddbc4b0a)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
