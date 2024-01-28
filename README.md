@@ -4,6 +4,22 @@ The main interface of the web app looks like this:
 
 ![image](https://github.com/praneethNellutla/restaurant-Front-End/assets/116669539/04bc9b35-0335-4940-a8fd-101eddbc4b0a)
 
+when we select any vacient table we need to enter the details of the customer, i created a modal which takes the details and also performs the form Validation.
+
+![image](https://github.com/praneethNellutla/restaurant-Front-End/assets/116669539/ac2ca91a-350e-4717-bbc0-3769d2731d60)
+
+After a table has booked by the customer they can order the food out of different types of food item filters. This is pure dynamic data which gets from server side. But currently just a sample dummy data is being displayed. 
+
+![image](https://github.com/praneethNellutla/restaurant-Front-End/assets/116669539/f3498cd5-2631-44e2-a66e-c2db5eb0a46b)
+
+We can select different types of food Items of different food types and they get added to cart. This cart is individual to each table and also it displays the total cost and the count of food items selected
+
+![image](https://github.com/praneethNellutla/restaurant-Front-End/assets/116669539/242b38c9-bcd2-41c0-bbbe-9826b3cb5c03)
+
+This entire app is build using React, Redux, React-Router.
+
+![image](https://github.com/praneethNellutla/restaurant-Front-End/assets/116669539/70571eea-4d30-4fcc-b255-02b77ed3221a)
+
 
 
 
