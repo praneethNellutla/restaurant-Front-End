@@ -14,7 +14,8 @@ After a table has booked by the customer they can order the food out of differen
 
 We can select different types of food Items of different food types and they get added to cart. This cart is individual to each table and also it displays the total cost and the count of food items selected
 
-![image](https://github.com/praneethNellutla/restaurant-Front-End/assets/116669539/242b38c9-bcd2-41c0-bbbe-9826b3cb5c03)
+![uploadImage](https://github.com/praneethNellutla/restaurant-Front-End/assets/116669539/384593a7-bebf-4fc0-a766-9ce640fe1497)
+
 
 This entire app is build using React, Redux, React-Router.
 
